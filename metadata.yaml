@@ -1,0 +1,37 @@
+_repo: The-Key-to-Success_37036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37036-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: Self-made man and renowned Baptist minister Russell Conwell helped to
+  usher in a paradigm shift in Christian thinking in the late nineteenth and early
+  twentieth centuries -- and also managed to help remake the self-help genre in the
+  process. The Key to Success is a comprehensive overview of Conwell's philosophy,
+  and it's chock-full of ideas that will help you make your wildest dreams of success
+  come true.
+gutenberg_issued: '2011-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leadership'
+- !lcsh 'Self-culture'
+- !lcc 'LC'
+- !lcsh 'Success'
+tableOfContents: 'Observation: the key to success -- Who the real leaders are -- Mastering
+  natural forces -- Whom mankind shall love -- Need of orators -- Woman''s influence.'
+title: The Key to Success
+url: http://www.gutenberg.org/ebooks/37036
